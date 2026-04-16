@@ -1,0 +1,39 @@
+# =============================
+# Python
+# =============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# =============================
+# Entornos y secretos
+# =============================
+.env
+.env.*
+venv/
+env/
+.venv/
+
+# =============================
+# Archivos de sistema
+# =============================
+.DS_Store
+Thumbs.db
+
+# =============================
+# Artefactos / datos pesados (opcional)
+# Nota: evita versionar archivos binarios grandes innecesarios.
+# =============================
+*.sqlite
+*.db-wal
+*.db-shm
+*.tmp
+
+# Si necesitas excluir datasets muy grandes, descomenta y ajusta:
+# data/raw_large/
+# data/**/*.parquet
+# data/**/*.feather
+# data/**/*.zip
+# data/**/*.7z
