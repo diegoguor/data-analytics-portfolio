@@ -1,0 +1,59 @@
+{
+  "clientes": {
+    "tabla": "clientes",
+    "filas": 1200,
+    "columnas": 4,
+    "nulos_por_columna": {
+      "cliente_id": 0,
+      "ciudad": 0,
+      "segmento": 0,
+      "fecha_registro": 0
+    },
+    "duplicados": 0
+  },
+  "ordenes": {
+    "tabla": "ordenes",
+    "filas": 6500,
+    "columnas": 5,
+    "nulos_por_columna": {
+      "orden_id": 0,
+      "cliente_id": 0,
+      "fecha_orden": 0,
+      "canal": 0,
+      "monto_orden": 0
+    },
+    "duplicados": 0
+  },
+  "pagos": {
+    "tabla": "pagos_filtrado",
+    "filas": 6371,
+    "columnas": 4,
+    "nulos_por_columna": {
+      "orden_id": 0,
+      "metodo_pago": 0,
+      "estado_pago": 0,
+      "fecha_pago": 0
+    },
+    "duplicados": 0
+  },
+  "master": {
+    "tabla": "dataset_maestro_ventas",
+    "filas": 6500,
+    "columnas": 12,
+    "nulos_por_columna": {
+      "orden_id": 0,
+      "cliente_id": 0,
+      "fecha_orden": 0,
+      "canal": 0,
+      "monto_orden": 0,
+      "ciudad": 0,
+      "segmento": 0,
+      "fecha_registro": 0,
+      "metodo_pago": 129,
+      "estado_pago": 129,
+      "fecha_pago": 129,
+      "dias_pago": 129
+    },
+    "duplicados": 0
+  }
+}

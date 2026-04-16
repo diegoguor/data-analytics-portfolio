@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.pbix.autorecover
+.DS_Store
