@@ -41,4 +41,5 @@ Construir un dashboard ejecutivo de desempeño financiero para seguimiento de KP
 
 ## Contacto
 - GitHub: https://github.com/diegoguor
-- LinkedIn: https://linkedin.com/in/diego-gutiérrez-78a00b397
+- LinkedIn: https://linkedin.com/in/diego-gutierrez-data
+- Email: diego.gutierrez.o@outlook.com
