@@ -74,3 +74,8 @@ Predecir probabilidad de churn para priorizar acciones de retención y reducir p
 2. **Proyecto 2:** BI y modelado semántico para negocio.
 3. **Proyecto 3:** automatización de datos y calidad.
 4. **Proyecto 4:** analítica avanzada y predicción.
+
+## Contacto
+- GitHub: https://github.com/diegoguor
+- LinkedIn: https://linkedin.com/in/diego-gutierrez-data
+- Email: diego.gutierrez.o@outlook.com
