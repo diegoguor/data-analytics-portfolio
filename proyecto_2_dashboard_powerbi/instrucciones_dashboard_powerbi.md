@@ -53,3 +53,9 @@ Ticket Promedio = DIVIDE([Ventas Totales], DISTINCTCOUNT(fact_ventas_finanzas[ve
 - Compara resultados con cálculo manual en Excel para 2-3 muestras.
 - Verifica filtros cruzados entre visuales.
 - Documenta supuestos de negocio en `documentacion_metricas.md`.
+  
+
+## Contacto
+- GitHub: https://github.com/diegoguor
+- LinkedIn: https://linkedin.com/in/diego-gutierrez-data
+- Email: diego.gutierrez.o@outlook.com
