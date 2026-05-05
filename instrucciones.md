@@ -65,3 +65,8 @@
 - Mostrar objetivo de negocio antes de detalles técnicos.
 - Resaltar impacto medible (tiempo, costo, precisión, adopción).
 - Explicar decisiones técnicas con trade-offs.
+
+- 📬 Contacto
+GitHub: https://github.com/diegoguor
+LinkedIn: https://linkedin.com/in/diego-gutierrez-data
+Email: diego.gutierrez.o@outlook.com
