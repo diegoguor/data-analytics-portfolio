@@ -59,8 +59,7 @@ Me enfoco en convertir datos en **insights accionables** y comunicar resultados 
 
 ## 📬 Contacto
 - **GitHub:** https://github.com/diegoguor
-- **LinkedIn:** https://linkedin.com/in/diego-gutiérrez-78a00b397
-- **Email:** diego.guor1@gmail.com
+- **LinkedIn:** https://linkedin.com/in/diego-gutierrez-data
+- **Email:** diego.gutierrez.o@outlook.com
 
 ---
-Si quieres, también puedo preparar una versión de este README en inglés para fortalecer postulaciones internacionales.
