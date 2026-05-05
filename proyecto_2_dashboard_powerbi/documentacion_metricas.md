@@ -36,3 +36,8 @@ Ticket Promedio = DIVIDE([Ventas Totales], DISTINCTCOUNT(fact_ventas_finanzas[ve
 2. **Tendencias**: evolución mensual y comparación YoY.
 3. **Segmentación**: línea de negocio, departamento, gerencia.
 4. **Alertas**: focos bajo meta y caídas intermensuales.
+
+## Contacto
+- GitHub: https://github.com/diegoguor
+- LinkedIn: https://linkedin.com/in/diego-gutierrez-data
+- Email: diego.gutierrez.o@outlook.com
